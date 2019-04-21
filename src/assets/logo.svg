@@ -1,0 +1,11 @@
+<svg width="174.00000000000003" height="40" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#007EE5" d="m12.9,0.5l-12.5,8.1l8.6,7l12.6,-7.8l-8.7,-7.3zm-12.5,21.9l12.5,8.2l8.7,-7.2l-12.6,-7.8l-8.6,6.8zm21.2,1l8.7,7.2l12.5,-8.1l-8.6,-6.9l-12.6,7.8zm21.2,-14.7l-12.5,-8.2l-8.7,7.3l12.6,7.8l8.6,-6.9zm-21.2,16.2l-8.7,7.3l-3.8,-2.5l0,2.8l12.5,7.5l12.5,-7.5l0,-2.8l-3.7,2.5l-8.8,-7.3z"/>
+  <text font-weight="bold" stroke="null" transform="matrix(1.6356158070626452,0,0,1.418316771155176,-51.27220119696835,7.086338309506864) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="24" id="svg_2" y="17.592982" x="57.991781" stroke-opacity="null" stroke-width="0" fill="#007ee5">PhiBox</text>
+ </g>
+</svg>
